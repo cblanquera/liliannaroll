@@ -1,0 +1,38 @@
+.section-1 {
+  text-align: center;
+}
+.section-1 button {
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.section-1 #error {
+  color: #DF0000;
+}
+
+.section-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.section-2 .item {
+  padding: 20px;
+  text-align: center;
+}
+
+.section-2 .item ul {
+  list-style: none;
+  padding: 0;
+}
+
+.section-2 .item button {
+  display: inline-block;
+  font-size: 15px;
+  padding: 10px 20px;
+  width: 100%;
+}
