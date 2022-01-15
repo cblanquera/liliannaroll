@@ -102,3 +102,29 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Hardhat files
+cache
+artifacts
+archives
+
+# Large files
+data/01-gentleman-bax
+data/02-monsierurique
+data/03-perla-whirlpool
+data/04-wunderkid
+data/05-yeaboi
+data/06-albus-lux
+data/07-chekaroo
+data/08-extranos
+data/09-floofer
+data/10-lily-elektra
+data/11-snooter
+data/12-valentina
+data/13-cheers
+data/14-illustris
+data/15-pops
+data/16-mr-lol
+data/archives
+
+.DS_STORE
