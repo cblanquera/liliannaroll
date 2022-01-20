@@ -1,13 +1,13 @@
 {
   "01-gentleman-bax": {
     "base-token-uri": "https://bafybeidiw2sxsdy3f5rlg77dqi7rg3bheni2xunl2sylifrdxtwfxvjklq.ipfs.dweb.link/",
-    "price": "42.918",
+    "price": "40",
     "limit": 10,
     "metadata": {
       "name": "GENTLEMAN BAX - Lilwunders' Funkanators - #{ID} of 10",
       "description": "The one who is loyal", 
       "animation_url": "https://bafybeigb3uvx642b5ozfd52jabrfip4eccigeji62lexwpuvcm2tpj6ahe.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=1", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=1", 
       "image": "https://bafybeigb3uvx642b5ozfd52jabrfip4eccigeji62lexwpuvcm2tpj6ahe.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -40,12 +40,12 @@
   "02-monsierurique": {
     "base-token-uri": "https://bafybeifsyaziij6wzecxdbk7pvvjnejijkicl3ax6f6z3vmjfefmvvo7ee.ipfs.dweb.link/",
     "limit": 10,
-    "price": "42.918",
+    "price": "40",
     "metadata": {
       "name": "MONSIEURIQUE - Lilwunders' Funkanators - #{ID} of 10",
       "description": "The one you can talk to", 
       "animation_url": "https://bafybeif6r5n6l5t6xflqpn7yaumgal7ppzdd3z3iuxx44pizq44k2rajha.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=2", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=2", 
       "image": "https://bafybeif6r5n6l5t6xflqpn7yaumgal7ppzdd3z3iuxx44pizq44k2rajha.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -83,7 +83,7 @@
       "name": "PERLA WHIRLPOOL - Lilwunders' Funkanators - #{ID} of 10",
       "description": "The one who will fight for you", 
       "animation_url": "https://bafybeifubzje7tejxxrgf7ednpxqnteuxeu3xmtekkbpp5nsosus6jmryy.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=3", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=3", 
       "image": "https://bafybeifubzje7tejxxrgf7ednpxqnteuxeu3xmtekkbpp5nsosus6jmryy.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -121,7 +121,7 @@
       "name": "WUNDERKID - Lilwunders' Funkanators - #{ID} of 10",
       "description": "The one who shows you wonder", 
       "animation_url": "https://bafybeidypo2ol4uvfxwsuwk2qyakvu46zrkcm5irnozcocjgleix4ztb7a.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=4", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=4", 
       "image": "https://bafybeidypo2ol4uvfxwsuwk2qyakvu46zrkcm5irnozcocjgleix4ztb7a.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -155,7 +155,7 @@
       "name": "YEABOI - Lilwunders' Funkanators - #{ID} of 10",
       "description": "The one who will encourage you", 
       "animation_url": "https://bafybeih25ib7j2kfrvgdtl63e7odzk2qf3d2t5g4c4rufbaxjn32iatdam.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=5", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=5", 
       "image": "https://bafybeih25ib7j2kfrvgdtl63e7odzk2qf3d2t5g4c4rufbaxjn32iatdam.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -188,12 +188,12 @@
   "06-albus-lux": {
     "base-token-uri": "https://bafybeic2w35gdov2zf66lokrlvoatli5dqvyhlm32trzbfvbeed4mssuiu.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "ALBUS LUX - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one who conforts", 
       "animation_url": "https://bafybeifnxfzhzngf5b64qljmwhygwlrubiki2hxg6lfg6v5ztqiw76bzja.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=6", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=6", 
       "image": "https://bafybeifnxfzhzngf5b64qljmwhygwlrubiki2hxg6lfg6v5ztqiw76bzja.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -222,12 +222,12 @@
   "07-chekaroo": {
     "base-token-uri": "https://bafybeihozp2nydfvwhqjfhcdf34h6anhm3ee4kqcad47i7bw7f2s7a7yvy.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "CHECKAROO - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one who will snap you back to reality", 
       "animation_url": "https://bafybeibkqkhugpividxsjxbnz2wude4fnnerr4ifpdefneazr3ra7kglmu.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=7", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=7", 
       "image": "https://bafybeibkqkhugpividxsjxbnz2wude4fnnerr4ifpdefneazr3ra7kglmu.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -256,12 +256,12 @@
   "08-extranos": {
     "base-token-uri": "https://bafybeiboq6i6hwjwfqe4k67v6mbt3uzzcbfe5zpsvouwpmajyreus3shg4.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "EXTRANOS - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one who gives you strength", 
       "animation_url": "https://bafybeidsz3nwvdq35t4qpdwr66qvsn72oocx2qhvmwnysyio5pgyt4vbtq.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=8", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=8", 
       "image": "https://bafybeidsz3nwvdq35t4qpdwr66qvsn72oocx2qhvmwnysyio5pgyt4vbtq.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -294,12 +294,12 @@
   "09-floofer": {
     "base-token-uri": "https://bafybeieiufuq65ratrnl7am5le2m2aoffmkban7e3n4ajqyxoogsu3hsou.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "FLOOFER - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one with a pure heart", 
       "animation_url": "https://bafybeiglkm6fjfh3remxqa5kk2itb4a5sjtbefabkk6ltnthuepypbfbwu.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=9", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=9", 
       "image": "https://bafybeiglkm6fjfh3remxqa5kk2itb4a5sjtbefabkk6ltnthuepypbfbwu.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -328,12 +328,12 @@
   "10-lily-elektra": {
     "base-token-uri": "https://bafybeidxrna2whq2f34oc7fueyh6f36irf6xdkmztvphfyoa5pjyixtmmy.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "LILY ELEKTRA - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one who will guard you fiercely", 
       "animation_url": "https://bafybeievaor7fidhgs43xxqtv7ocmonojlrhi233or6swiqyxlzuxq74vu.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=10", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=10", 
       "image": "https://bafybeievaor7fidhgs43xxqtv7ocmonojlrhi233or6swiqyxlzuxq74vu.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -358,12 +358,12 @@
   "11-snooter": {
     "base-token-uri": "https://bafybeih6rkcmkjvrusgl5la6p33doaozu3vydzyjkhqnnl4qwj6c5fdr44.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "SNOOTER - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one who is noble", 
       "animation_url": "https://bafybeihm3ylybwkunvw7ie4pilqh54zhdfbdvedoib4sjflrutye5cantq.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=11", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=11", 
       "image": "https://bafybeihm3ylybwkunvw7ie4pilqh54zhdfbdvedoib4sjflrutye5cantq.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -392,12 +392,12 @@
   "12-valentina": {
     "base-token-uri": "https://bafybeic5hf4qgw3gavxuzqmuachwrf7haa6wb74swpp7hgjga44mdgrlwu.ipfs.dweb.link/",
     "limit": 100,
-    "price": "20",
+    "price": "25",
     "metadata": {
       "name": "VALENTINA - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one who laughs at you but loves you", 
       "animation_url": "https://bafybeifxuwzwymzz65i5qv4b2hnz5uqakvfdf2hz7wzy3j6bcezfmp5jwm.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=12", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=12", 
       "image": "https://bafybeifxuwzwymzz65i5qv4b2hnz5uqakvfdf2hz7wzy3j6bcezfmp5jwm.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -431,7 +431,7 @@
       "name": "CHEERS - Lilwunders' Funkanators - #{ID} of 200",
       "description": "The one who will always be there for you", 
       "animation_url": "https://bafybeihwmg7eqa2gvlz67r7b57kh26jgv6t5d3wtyriaemno5qm54jdedq.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=13", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=13", 
       "image": "https://bafybeihwmg7eqa2gvlz67r7b57kh26jgv6t5d3wtyriaemno5qm54jdedq.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -461,7 +461,7 @@
       "name": "ILLUSTRIS - Lilwunders' Funkanators - #{ID} of 200",
       "description": "The one who will shine a light in darkness", 
       "animation_url": "https://bafybeib2znaymu5tszpvqqchhs2x2gvbhhxj56ywwkk346blui5pdzro3i.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=14", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=14", 
       "image": "https://bafybeib2znaymu5tszpvqqchhs2x2gvbhhxj56ywwkk346blui5pdzro3i.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -491,7 +491,7 @@
       "name": "POPS - Lilwunders' Funkanators - #{ID} of 200",
       "description": "The one who guides you", 
       "animation_url": "https://bafybeigopwktdkyy524yqsckceyfp7yipacdvvwphurib4lnsi2ha2xg74.ipfs.dweb.link/{ID}.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=15", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=15", 
       "image": "https://bafybeigopwktdkyy524yqsckceyfp7yipacdvvwphurib4lnsi2ha2xg74.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
@@ -520,7 +520,7 @@
       "name": "MR LOL - Lilwunders' Funkanators - #{ID} of 100",
       "description": "The one you want to encourage", 
       "animation_url": "https://bafybeifqadk57ez65yi4izdfspoh35wc6cg3bkutlf6fsnqwconnxi5knq.ipfs.dweb.link/animation.mp4",
-      "external_url": "https://www.liliannamanahan.com/funkanators?token=16", 
+      "external_url": "https://www.liliannamanahan.com/funkanators?collection=16", 
       "image": "https://bafybeifqadk57ez65yi4izdfspoh35wc6cg3bkutlf6fsnqwconnxi5knq.ipfs.dweb.link/preview.jpg", 
       "attributes": [
         {
